@@ -7,9 +7,9 @@ A visually appealing Spotify UI clone built using only HTML and CSS. This projec
 Project Structure
 -----------------
 spotify-clone/
-├── index.html                # Main HTML file
-├── style.css                 # Styling with CSS
-├── assets/                   # Folder for images/icons (library, cards, controls)
+├── index.html                
+├── style.css                 
+├── assets/                   
 │   ├── logo.png
 │   ├── library_icon.png
 │   ├── backward_icon.png
